@@ -2,4 +2,6 @@
 
 DEMO: [Guess my number](https://ph0enix46.github.io/Guess-my-number---JAVASCRIPT/)
 
+![Example Image](demo-pic.png)
+
 Have a nice Day!💛
