@@ -10,7 +10,7 @@
 ✅[View demo](https://ph0enix46.github.io/Guess-my-number---JAVASCRIPT/) 🐛[Bug report](https://github.com/pH0enix46/Guess-my-number---JAVASCRIPT/issues)
 
 
-## About Guess-my-number
+## About
 It's a Guess my number game based on some JAVASCRIPT ideas.
 
 ### Screenshots
